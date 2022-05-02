@@ -7,26 +7,27 @@ Omar and I were given two data sets from PyBer to clean and merge to provide ana
 ## Results
 
 From the data range we were provided we determined that the "Urban" city types had the most amount of total rides, drivers, and totla fares.  The highest Average Fare Per Ride and Average Fare Per Driver were the highest in "Rural" city types.
-    ### Total Rides
-        - Rural: 125
-        - Suburban: 625
-        - Urban: 1625
-    ### Total Drivers
-        - Rural: 78
-        - Suburban: 490
-        - Urban: 2405
-    ### Total Fares
-        - Rural: $4, 327.93
-        - Suburban: $19,356.33
-        - Urban: $39,854.38
-    ### Avg Fare Per Ride
-        - Rural: $34.62
-        - Suburban: $30.97
-        - Urban: $24.63
-    ### Avg Fare Per Driver
-        - Rural: $55.49
-        - Suburban: $39.50
-        - Urban: $16.57
+### Ride Sharing Data
+- Total Rides
+    - Rural: 125
+    - Suburban: 625
+    - Urban: 1625
+- Total Drivers
+    - Rural: 78
+    - Suburban: 490
+    - Urban: 2405
+- Total Fares
+    - Rural: $4, 327.93
+    - Suburban: $19,356.33
+    - Urban: $39,854.38
+- Avg Fare Per Ride
+    - Rural: $34.62
+    - Suburban: $30.97
+    - Urban: $24.63
+-  Avg Fare Per Driver
+    - Rural: $55.49
+    - Suburban: $39.50
+    - Urban: $16.57
 
 ## Summary
 
